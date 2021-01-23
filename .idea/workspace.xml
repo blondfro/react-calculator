@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90a6ff56-e3b5-4fc9-bdc7-74a14fd4d77b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Buttons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Calculator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Display.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Formula.js" afterDir="false" />
+    <list default="true" id="90a6ff56-e3b5-4fc9-bdc7-74a14fd4d77b" name="Default Changelist" comment="created primary components">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Training Files/React/Building Applications with React and Redux/my files/react-redux-repeat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,11 +51,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609371784493</updated>
-      <workItem from="1609371787205" duration="2073000" />
+      <workItem from="1609371787205" duration="2706000" />
+      <workItem from="1611435674842" duration="287000" />
     </task>
+    <task id="LOCAL-00001" summary="created primary components">
+      <created>1609374867942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609374867942</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created primary components" />
+    <option name="LAST_COMMIT_MESSAGE" value="created primary components" />
   </component>
 </project>

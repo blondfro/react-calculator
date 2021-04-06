@@ -1,9 +1,10 @@
 import React from 'react';
+import Button from "../common/Button";
 
-function Buttons() {
+function Buttons({ numbers, operators, decimals, equals, clears}) {
     return (
         <div>
-            
+            <Button />
         </div>
     )
 }

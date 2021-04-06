@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90a6ff56-e3b5-4fc9-bdc7-74a14fd4d77b" name="Default Changelist" comment="copied in basic styles.">
-      <change afterPath="$PROJECT_DIR$/src/common/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/InputField.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Buttons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Calculator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +63,7 @@
       <updated>1609371784493</updated>
       <workItem from="1609371787205" duration="2706000" />
       <workItem from="1611435674842" duration="615000" />
-      <workItem from="1617735753031" duration="1428000" />
+      <workItem from="1617735753031" duration="6761000" />
     </task>
     <task id="LOCAL-00001" summary="created primary components">
       <created>1609374867942</created>
@@ -76,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611436216931</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="created a couple reusable components.">
+      <created>1617737204705</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617737204705</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created primary components" />
     <MESSAGE value="copied in basic styles." />
-    <option name="LAST_COMMIT_MESSAGE" value="copied in basic styles." />
+    <MESSAGE value="created a couple reusable components." />
+    <option name="LAST_COMMIT_MESSAGE" value="created a couple reusable components." />
   </component>
 </project>

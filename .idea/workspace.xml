@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90a6ff56-e3b5-4fc9-bdc7-74a14fd4d77b" name="Default Changelist" comment="created primary components">
+    <list default="true" id="90a6ff56-e3b5-4fc9-bdc7-74a14fd4d77b" name="Default Changelist" comment="copied in basic styles.">
+      <change afterPath="$PROJECT_DIR$/src/common/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/InputField.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Buttons.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Training Files/React/Managing React State/react-state-managing/My Ver" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,6 +44,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\User Files\PHP Storm Projects\react-calculator\src\common" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -52,7 +59,8 @@
       <option name="presentableId" value="Default" />
       <updated>1609371784493</updated>
       <workItem from="1609371787205" duration="2706000" />
-      <workItem from="1611435674842" duration="287000" />
+      <workItem from="1611435674842" duration="615000" />
+      <workItem from="1617735753031" duration="1428000" />
     </task>
     <task id="LOCAL-00001" summary="created primary components">
       <created>1609374867942</created>
@@ -61,14 +69,34 @@
       <option name="project" value="LOCAL" />
       <updated>1609374867942</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="copied in basic styles.">
+      <created>1611436216931</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611436216931</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created primary components" />
-    <option name="LAST_COMMIT_MESSAGE" value="created primary components" />
+    <MESSAGE value="copied in basic styles." />
+    <option name="LAST_COMMIT_MESSAGE" value="copied in basic styles." />
   </component>
 </project>

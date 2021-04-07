@@ -88,8 +88,7 @@ function Calculator() {
 
     return (
         <div className="container">
-
-            <div className="justify-content-center">
+            <div className="calculator justify-content-center">
                 <InputField
                     id="formula-display"
                     value={formula.join(' ')}

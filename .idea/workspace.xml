@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90a6ff56-e3b5-4fc9-bdc7-74a14fd4d77b" name="Default Changelist" comment="copied in basic styles.">
+    <list default="true" id="90a6ff56-e3b5-4fc9-bdc7-74a14fd4d77b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/InputField.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/InputField.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Buttons.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Calculator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <updated>1609371784493</updated>
       <workItem from="1609371787205" duration="2706000" />
       <workItem from="1611435674842" duration="615000" />
-      <workItem from="1617735753031" duration="6761000" />
+      <workItem from="1617735753031" duration="9126000" />
     </task>
     <task id="LOCAL-00001" summary="created primary components">
       <created>1609374867942</created>
@@ -86,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617737204705</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="-created methods to handle various events&#10;&#10;-a buttons component that will load all the needed buttons for the calc&#10;&#10;-installed bootstrap, jquery and popper for added styling.">
+      <created>1617744751128</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617744751128</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +113,7 @@
     <MESSAGE value="created primary components" />
     <MESSAGE value="copied in basic styles." />
     <MESSAGE value="created a couple reusable components." />
-    <option name="LAST_COMMIT_MESSAGE" value="created a couple reusable components." />
+    <MESSAGE value="-created methods to handle various events&#10;&#10;-a buttons component that will load all the needed buttons for the calc&#10;&#10;-installed bootstrap, jquery and popper for added styling." />
+    <option name="LAST_COMMIT_MESSAGE" value="-created methods to handle various events&#10;&#10;-a buttons component that will load all the needed buttons for the calc&#10;&#10;-installed bootstrap, jquery and popper for added styling." />
   </component>
 </project>

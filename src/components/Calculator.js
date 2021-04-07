@@ -90,8 +90,16 @@ function Calculator() {
         <div className="container">
 
             <div className="justify-content-center">
-                <InputField id="formula-display" value={formula.join(' ')}/>
-                <InputField id="display" value={currVal} />
+                <InputField
+                    id="formula-display"
+                    value={formula.join(' ')}
+                    className="formula-display"
+                />
+                <InputField
+                    id="display"
+                    value={currVal}
+                    className="display"
+                />
                 <Buttons
                     numbers={handleNumbers}
                     operators={handleOperator}
